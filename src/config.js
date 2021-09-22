@@ -22,7 +22,7 @@ module.exports = {
     channels: {
         general: "836854115526770711",
     },
-    reportsChannelId: "869017115385024543",
+    reportsChannelId: "",
     ownerIds: [
         "815204465937481749" /*PuneetGopinath#0001*/,
         "693754859014324295" /*abhijoshi2k#6842*/,
